@@ -1,4 +1,7 @@
 # Awesome Free Tools & Sites
+<p align="center">
+  <img src="https://github.com/eahmedalsorori/awesome-help-wanted/raw/main/img/Screenshot_20260626-065321_Chrome.jpg" alt="غلاف المشروع" width="100%" />
+</p>
 
 This list serves two purposes:
 
